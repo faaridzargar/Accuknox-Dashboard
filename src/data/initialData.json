@@ -1,0 +1,42 @@
+{
+    "categories": [
+      {
+        "id": "1",
+        "name": "CSPM Executive Dashboard",
+        "widgets": [
+          {
+            "id": "w1",
+            "name": "Cloud Accounts",
+            "content": "This is the content for Cloud Accounts"
+          },
+          {
+            "id": "w2",
+            "name": "Cloud Accounts Risk Assessment",
+            "content": "This is the content for Cloud Accounts Risk Assessment"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "CWPP Dashboard",
+        "widgets": [
+          {
+            "id": "w3",
+            "name": "Worload Alerts",
+            "content": "This is the content for Worload Alerts"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Registry Scan",
+        "widgets": [
+          {
+            "id": "w4",
+            "name": "Image Risk Assessment",
+            "content": "This is the content for Image risk assessment"
+          }
+        ]
+      }
+    ]
+  }
